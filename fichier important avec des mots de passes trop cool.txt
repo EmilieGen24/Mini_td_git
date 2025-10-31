@@ -1,2 +1,0 @@
-assets/upload/*
-fichier important avec des mots de passes trop cool.txt
